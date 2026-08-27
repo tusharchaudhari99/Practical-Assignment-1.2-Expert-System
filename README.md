@@ -229,12 +229,3 @@ Thus, the project successfully demonstrates the implementation of a rule-based E
 
 ---
 
-## Author
-
-**Name:** Tushar Vijay Chaudhari
-
-**PRN:** 202401070186
-
-**Branch:** ENTC
-
-**Batch:** A2
